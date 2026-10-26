@@ -1,0 +1,91 @@
+record_1_name,record_1_address,record_1_country,record_2_name,record_2_address,record_2_country,match
+Paris Fashion House,"18 Rue Victor Hugo, Paris",France,Paris Fashion House,"18 Rue Victor Hugo, Paris",France,1
+Kumar Hardware,"31 Anna Salai, Salem",India,KUMAR HARDWARE,31 Anna Salai Salem,India,1
+New York Books,"41 Broadway, New York",US,NY Books,"41 Broadway, New York",US,1
+Kumar Hardware,"31 Anna Salai, Salem",India,Fresh Mart Super Market,"56 MG Rd, Bengaluru",India,0
+ABC Electronics,"12 Gandhi Road, Karur",India,ABC Electronics,"12 Gandhi Rd, Karur",India,1
+Fresh Mart Supermarket,"56 MG Road, Bengaluru",India,FRESH MART SUPERMARKET,56 MG Road Bengaluru,India,1
+Bright Future Academy,"5 College Road, Trichy",India,BrightFuture Academy,"5 College Road, Trichy",India,1
+Green Valley Pharmacy,"45 Market Street, Chennai",India,Royal Bakry,17 temple street madurai,India,0
+Green Valley Pharmacy,"45 Market Street, Chennai",India,GREEN VALLEY PHARMACY,45 Market Street Chennai,India,1
+Lyon Cafe,"7 Rue de la Republique, Lyon",France,Lyon Cafe,"7 Rue de la Republique, Lyon",France,1
+Paris Fashion House,"18 Rue Victor Hugo, Paris",France,California Auto Wks,25 market street san jose,US,0
+Blue Star Restaurant,"22 Park Street, Kolkata",India,Blue Star Rest,"22 Park Street, Kolkata",India,1
+Texas Furniture,"90 Main Street, Austin",US,Texas Furniture,"90 Main St, Austin",US,1
+New York Books,"41 Broadway, New York",US,Texas Furnitures,"90 Main St, Austin",US,0
+Sunrise Textiles,"8 Station Road, Erode",India,Sunrise Textiles,"8 Station Rd, Erode",India,1
+Sri Lakshmi Stores,"20 Main Road, Coimbatore",India,Sri Lakshmi Stores,"20 Main Rd, Coimbatore",India,1
+Royal Bakery,"17 Temple Street, Madurai",India,ROYAL BAKERY,17 Temple Street Madurai,India,1
+City Care Hospital,"10 Lake View Road, Chennai",India,City Care Hospital,"10 Lake View Rd, Chennai",India,1
+California Auto Works,"25 Market Street, San Jose",US,California Auto Work,25 market street san jose,US,1
+Sri Lakshmi Stores,"20 Main Road, Coimbatore",India,Green Valley Pharm,"45 Market St, Chennai",India,0
+Fresh Mart Supermarket,"56 MG Road, Bengaluru",India,Blue Star Rest,22 park street kolkata,India,0
+Royal Bakery,"17 Temple Street, Madurai",India,Fresh Mart Super Market,56 mg road bengaluru,India,0
+Blue Star Restaurant,"22 Park Street, Kolkata",India,Bright Future Academy,"5 College Rd, Trichy",India,0
+City Care Hospital,"10 Lake View Road, Chennai",India,CITY CARE HOSPITAL,10 Lake View Road Chennai,India,1
+Blue Star Restaurant,"22 Park Street, Kolkata",India,Blue Star Rest.,22 park street kolkata,India,1
+Green Valley Pharmacy,"45 Market Street, Chennai",India,Green Valley Pharm.,"45 Market Street, Chennai",India,1
+Sunrise Textiles,"8 Station Road, Erode",India,Royal Bakry,"17 Temple St, Madurai",India,0
+Sunrise Textiles,"8 Station Road, Erode",India,Kumar Hardware,31 anna salai salem,India,0
+City Care Hospital,"10 Lake View Road, Chennai",India,CityCare Hospital,"10 Lake View Road, Chennai",India,1
+City Care Hospital,"10 Lake View Road, Chennai",India,Bright Future Academy,5 college road trichy,India,0
+Green Valley Pharmacy,"45 Market Street, Chennai",India,Green Valley Pharm,45 market street chennai,India,1
+Royal Bakery,"17 Temple Street, Madurai",India,Kumar Hardware,"31 Anna Salai, Salem",India,0
+Sri Lakshmi Stores,"20 Main Road, Coimbatore",India,Sri Lakshmi Store,20 main road coimbatore,India,1
+Paris Fashion House,"18 Rue Victor Hugo, Paris",France,PARIS FASHION HOUSE,18 Rue Victor Hugo Paris,France,1
+Lyon Cafe,"7 Rue de la Republique, Lyon",France,Lyon Caf,"7 Rue de la Republique, Lyon",France,1
+Royal Bakery,"17 Temple Street, Madurai",India,Royal Bakery,"17 Temple St, Madurai",India,1
+Lyon Cafe,"7 Rue de la Republique, Lyon",France,Lyon Café,7 rue de la republique lyon,France,1
+Blue Star Restaurant,"22 Park Street, Kolkata",India,BLUE STAR RESTAURANT,22 Park Street Kolkata,India,1
+Sri Lakshmi Stores,"20 Main Road, Coimbatore",India,Sri Lakshmi St.,"20 Main Road, Coimbatore",India,1
+Bright Future Academy,"5 College Road, Trichy",India,Paris Fashion Hs,"18 Rue Victor Hugo, Paris",France,0
+Fresh Mart Supermarket,"56 MG Road, Bengaluru",India,Fresh Mart Supermrkt,"56 MG Road, Bengaluru",India,1
+Royal Bakery,"17 Temple Street, Madurai",India,Royal Bakry,"17 Temple Street, Madurai",India,1
+California Auto Works,"25 Market Street, San Jose",US,New York Books,"41 Broadway, New York",US,0
+Fresh Mart Supermarket,"56 MG Road, Bengaluru",India,Fresh Mart Super Market,56 mg road bengaluru,India,1
+New York Books,"41 Broadway, New York",US,New York Book Store,41 broadway new york,US,1
+Sunrise Textiles,"8 Station Road, Erode",India,Sunrise Textile,8 station road erode,India,1
+Fresh Mart Supermarket,"56 MG Road, Bengaluru",India,Fresh Mart Supermarket,"56 MG Rd, Bengaluru",India,1
+ABC Electronics,"12 Gandhi Road, Karur",India,A.B.C. Electronics,"12 Gandhi Road, Karur",India,1
+Royal Bakery,"17 Temple Street, Madurai",India,Royal Bakers,17 temple street madurai,India,1
+Bright Future Academy,"5 College Road, Trichy",India,BRIGHT FUTURE ACADEMY,5 College Road Trichy,India,1
+Green Valley Pharmacy,"45 Market Street, Chennai",India,Green Valley Pharmacy,"45 Market St, Chennai",India,1
+New York Books,"41 Broadway, New York",US,ABC Electronic,12 gandhi road karur,India,0
+Sri Lakshmi Stores,"20 Main Road, Coimbatore",India,SRI LAKSHMI STORES,20 Main Road Coimbatore,India,1
+Green Valley Pharmacy,"45 Market Street, Chennai",India,SUNRISE TEXTILES,"8 Station Rd, Erode",India,0
+Bright Future Academy,"5 College Road, Trichy",India,Bright Future Academy,"5 College Rd, Trichy",India,1
+Paris Fashion House,"18 Rue Victor Hugo, Paris",France,LYON CAFE,"7 Rue de la Republique, Lyon",France,0
+Texas Furniture,"90 Main Street, Austin",US,Sri Lakshmi St.,20 main road coimbatore,India,0
+New York Books,"41 Broadway, New York",US,NEW YORK BOOKS,41 Broadway New York,US,1
+Paris Fashion House,"18 Rue Victor Hugo, Paris",France,Paris Fashion-House,"18 Rue Victor Hugo, Paris",France,1
+California Auto Works,"25 Market Street, San Jose",US,CALIFORNIA AUTO WORKS,25 Market Street San Jose,US,1
+Lyon Cafe,"7 Rue de la Republique, Lyon",France,LYON CAFE,7 Rue de la Republique Lyon,France,1
+ABC Electronics,"12 Gandhi Road, Karur",India,Green Valley Pharm,45 market street chennai,India,0
+Texas Furniture,"90 Main Street, Austin",US,ABC Electronic,"12 Gandhi Rd, Karur",India,0
+Sunrise Textiles,"8 Station Road, Erode",India,Sunrise Tex.,"8 Station Road, Erode",India,1
+Fresh Mart Supermarket,"56 MG Road, Bengaluru",India,CITY CARE HOSPITAL,"10 Lake View Rd, Chennai",India,0
+Paris Fashion House,"18 Rue Victor Hugo, Paris",France,Paris Fashion Hs,18 rue victor hugo paris,France,1
+Texas Furniture,"90 Main Street, Austin",US,TEXAS FURNITURE,90 Main Street Austin,US,1
+California Auto Works,"25 Market Street, San Jose",US,California Auto Works,"25 Market St, San Jose",US,1
+Bright Future Academy,"5 College Road, Trichy",India,LYON CAFE,7 rue de la republique lyon,France,0
+Texas Furniture,"90 Main Street, Austin",US,Texas Furnitures,90 main street austin,US,1
+Blue Star Restaurant,"22 Park Street, Kolkata",India,Blue Star Restaurant,"22 Park St, Kolkata",India,1
+California Auto Works,"25 Market Street, San Jose",US,Texas Furnitures,90 main street austin,US,0
+Texas Furniture,"90 Main Street, Austin",US,Texas Furn.,"90 Main Street, Austin",US,1
+Sri Lakshmi Stores,"20 Main Road, Coimbatore",India,SUNRISE TEXTILES,8 station road erode,India,0
+Blue Star Restaurant,"22 Park Street, Kolkata",India,Paris Fashion Hs,18 rue victor hugo paris,France,0
+Bright Future Academy,"5 College Road, Trichy",India,Bright Future Acad,5 college road trichy,India,1
+City Care Hospital,"10 Lake View Road, Chennai",India,City Care Hosp,10 lake view road chennai,India,1
+ABC Electronics,"12 Gandhi Road, Karur",India,abc electronics,12 gandhi road karur,India,1
+New York Books,"41 Broadway, New York",US,New York Books,"41 Broadway, New York",US,1
+Kumar Hardware,"31 Anna Salai, Salem",India,Kumar Hardwares,31 anna salai salem,India,1
+ABC Electronics,"12 Gandhi Road, Karur",India,ABC Electronic,12 Gandhi Road Karur,India,1
+Kumar Hardware,"31 Anna Salai, Salem",India,Kumar Hdwe,"31 Anna Salai, Salem",India,1
+Lyon Cafe,"7 Rue de la Republique, Lyon",France,New York Books,41 broadway new york,US,0
+City Care Hospital,"10 Lake View Road, Chennai",India,Blue Star Rest,"22 Park St, Kolkata",India,0
+Lyon Cafe,"7 Rue de la Republique, Lyon",France,California Auto Wks,"25 Market St, San Jose",US,0
+Kumar Hardware,"31 Anna Salai, Salem",India,Kumar Hardware,"31 Anna Salai, Salem",India,1
+ABC Electronics,"12 Gandhi Road, Karur",India,Sri Lakshmi Stores,"20 Main Rd, Coimbatore",India,0
+Kumar Hardware,"31 Anna Salai, Salem",India,CITY CARE HOSPITAL,10 lake view road chennai,India,0
+Sunrise Textiles,"8 Station Road, Erode",India,SUNRISE TEXTILES,8 Station Road Erode,India,1
+California Auto Works,"25 Market Street, San Jose",US,California Auto Wks,"25 Market Street, San Jose",US,1

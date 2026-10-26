@@ -1,0 +1,101 @@
+record_1_name,record_1_address,record_1_country,record_2_name,record_2_address,record_2_country,match
+GREEN LEAF PHARMACY,45 Anna Nagar Chennai,India,TechNova Solution,"101 Park Ave, Hyderabad",India,0
+Green Leaf Pharmacy,"45 Anna Ngr, Chennai",India,ABC Electronic,"12 M.G. Road, Chennai",India,0
+BlueStar Textiles,"21 Market Rd, Erode",India,Global Motors,55 Industrial Road,India,0
+New York Book Store,"90 Broadway, NY",US,Royal Furniture Co,"9 Main St, Madurai",India,0
+BlueStar Textiles,21 Market Road Erode,India,New York Books,90 Broadway New York,US,0
+Blue Star Textiles,21 Market Road,India,Blue Star Textiles,"21 Market Rd, Erode",India,1
+New York Books,90 Broadway,US,PARIS BAKERY,"18 Rue V. Hugo, Paris",France,0
+Paris Bakery Ltd,18 Rue Victor Hugo Paris,France,Paris Bakery,18 Rue Victor Hugo Paris,France,1
+CALIFORNIA COFFEE,44 Market St.,US,California Coffee Co,44 Market St.,US,1
+California Cafe,44 Market Street San Francisco,US,NEW YORK BOOKS,"90 Broadway, NY",US,0
+Paris Bakery,18 Rue Victor Hugo,France,Sunrise Rest.,78 Gandhi Street,India,0
+Sunrise Rest.,78 Gandhi Street Coimbatore,India,TechNova Solutions,101 Park Ave.,India,0
+TechNova Solution,101 Park Avenue,India,Tech Nova Solutions,101 Park Avenue,India,1
+BlueStar Textiles,"21 Market Rd, Erode",India,Blue Star Textiles,21 Market Road,India,1
+Royal Furniture Co,"9 Main St., Madurai",India,Royal Furniture Co,9 Main Street,India,1
+Royal Furnitures,"9 Main St., Madurai",India,Sunrise Rest.,"78 Gandhi St, Coimbatore",India,0
+BlueStar Textiles,"21 Market Rd, Erode",India,Blue Star Textile,"21 Market Rd, Erode",India,1
+ROYAL FURNITURE,"9 Main St, Madurai",India,Royal Furnitures,"9 Main St., Madurai",India,1
+PARIS BAKERY,18 Rue Victor Hugo,France,GreenLeaf Pharmacy,45 Anna Nagar Chennai,India,0
+BlueStar Textiles,21 Market Road,India,Royal Furniture,"9 Main St, Madurai",India,0
+Global Motor,55 Industrial Rd.,India,California Coffee Co,"44 Market St, San Francisco",US,0
+Lyon Fashion,27 Rue de la Republique,France,Lyon Fashion,27 Rue de la Republique,France,1
+TechNova Solutions,101 Park Ave.,India,TECHNOVA SOLUTIONS,101 Park Avenue Hyderabad,India,1
+GreenLeaf Pharmacy,"45 Anna Nagar, Chennai",India,GreenLeaf Pharmacy,45 Anna Nagar,India,1
+Fresh Mart Supermarket,"33 Lake View Rd, Bangalore",India,California Coffee Co,44 Market St.,US,0
+Green Leaf Pharmacy,45 Anna Nagar,India,Green Leaf Pharmacy,"45 Anna Ngr, Chennai",India,1
+Blue Star Textile,21 Market Road,India,BLUE STAR TEXTILES,"21 Market Rd., Erode",India,1
+Green Leaf Pharma,"45 Anna Nagar, Chennai",India,Blue Star Textile,21 Market Road,India,0
+NEW YORK BOOKS,90 Broadway,US,NY Books,90 Broadway,US,1
+ROYAL FURNITURE,9 Main Street,India,Global Motors Pvt Ltd,"55 Industrial Rd, Pune",India,0
+BLUE STAR TEXTILES,"21 Market Rd, Erode",India,BLUE STAR TEXTILES,21 Market Road,India,1
+California Coffee,44 Market Street San Francisco,US,Fresh Mart Super Market,33 Lake View Road,India,0
+TechNova Solutions,101 Park Avenue Hyderabad,India,GREEN LEAF PHARMACY,45 Anna Nagar Chennai,India,0
+BlueStar Textiles,21 Market Road,India,BlueStar Textiles,21 Market Road,India,1
+Blue Star Textile,"21 Market Rd, Erode",India,BlueStar Textiles,21 Market Road Erode,India,1
+New York Book Store,90 Broadway,US,Fresh Mart Supermarket,33 Lake View Road Bangalore,India,0
+CALIFORNIA COFFEE,44 Market Street San Francisco,US,CALIFORNIA COFFEE,44 Market St.,US,1
+GLOBAL MOTORS,55 Industrial Road Pune,India,GLOBAL MOTORS,55 Industrial Road,India,1
+GLOBAL MOTORS,"55 Industrial Rd, Pune",India,Global Motor,55 Industrial Road,India,1
+NEW YORK BOOKS,90 Broadway New York,US,NY Books,90 Broadway New York,US,1
+New York Books,90 Broadway,US,NEW YORK BOOKS,90 Broadway New York,US,1
+TechNova Solutions,101 Park Avenue,India,Global Motor,55 Industrial Road Pune,India,0
+ABC Electronics,"12 M.G. Road, Chennai",India,GLOBAL MOTORS,"55 Industrial Rd, Pune",India,0
+NY Books,90 Broadway New York,US,Blue Star Textiles,21 Market Road,India,0
+Royal Furniture Co,9 Main Street Madurai,India,Royal Furnitures,"9 Main St., Madurai",India,1
+GLOBAL MOTORS,55 Industrial Road Pune,India,FreshMart Supermarket,33 Lake View Rd.,India,0
+NEW YORK BOOKS,90 Broadway New York,US,NY Books,90 Broadway,US,1
+TECHNOVA SOLUTIONS,101 Park Avenue,India,Global Motors Pvt Ltd,"55 Industrial Rd, Pune",India,0
+Green Leaf Pharma,45 Anna Nagar,India,Paris Boulangerie,"18 Victor Hugo St, Paris",France,0
+NY Books,90 Broadway,US,FreshMart Supermarket,33 Lake View Road,India,0
+Sunrise Rest.,78 Gandhi Street,India,Fresh Mart Super Market,"33 Lake View Rd, Bangalore",India,0
+Green Leaf Pharma,"45 Anna Nagar, Chennai",India,Green Leaf Pharma,"45 Anna Ngr, Chennai",India,1
+GLOBAL MOTORS,55 Industrial Rd.,India,Global Motor,55 Industrial Road Pune,India,1
+SUNRISE RESTAURANT,"78 Gandhi St, Coimbatore",India,Sunrise Rest.,"78 Gandhi St., Coimbatore",India,1
+BlueStar Textiles,21 Market Road,India,Royal Furniture,9 Main Street Madurai,India,0
+BLUE STAR TEXTILES,21 Market Road,India,SUNRISE RESTAURANT,78 Gandhi Street Coimbatore,India,0
+GreenLeaf Pharmacy,"45 Anna Nagar, Chennai",India,Green Leaf Pharma,45 Anna Nagar Chennai,India,1
+CALIFORNIA COFFEE,44 Market Street San Francisco,US,California Coffee,44 Market St.,US,1
+Tech Nova Solutions,101 Park Ave.,India,Tech Nova Solutions,"101 Park Ave, Hyderabad",India,1
+Sunrise Restaurant,"78 Gandhi St., Coimbatore",India,SUNRISE RESTAURANT,"78 Gandhi St, Coimbatore",India,1
+Blue Star Textile,21 Market Road Erode,India,CALIFORNIA COFFEE,44 Market St.,US,0
+BlueStar Textiles,21 Market Road Erode,India,Lyon Fashion Hse,"27 Rue Republique, Lyon",France,0
+ABC Electronics Pvt Ltd,12 MG Road Chennai,India,ABC Electronic,"12 M.G. Road, Chennai",India,1
+Lyon Fashion Hse,"27 Rue Republique, Lyon",France,CALIFORNIA COFFEE,44 Market Street San Francisco,US,0
+GLOBAL MOTORS,"55 Industrial Rd, Pune",India,Global Motors,55 Industrial Road,India,1
+Blue Star Textiles,21 Market Road,India,Blue Star Textile,21 Market Road,India,1
+TECHNOVA SOLUTIONS,101 Park Avenue,India,TechNova Solution,101 Park Avenue,India,1
+Sunrise Restaurant,"78 Gandhi St, Coimbatore",India,Sunrise Rest.,78 Gandhi Street,India,1
+ABC Electronics,"12 MG Road, Chennai",India,A.B.C. Electronics,"12 M.G. Road, Chennai",India,1
+Tech Nova Solutions,101 Park Avenue,India,California Cafe,"44 Market St, San Francisco",US,0
+LYON FASHION HOUSE,"27 Rue Republique, Lyon",France,Lyon Fashion Hse,"27 Republique St, Lyon",France,1
+New York Books,"90 Broadway, NY",US,GREEN LEAF PHARMACY,"45 Anna Ngr, Chennai",India,0
+Green Leaf Pharma,45 Anna Nagar,India,GLOBAL MOTORS,"55 Industrial Rd, Pune",India,0
+Sunrise Rest.,"78 Gandhi St, Coimbatore",India,Green Leaf Pharmacy,45 Anna Nagar,India,0
+Blue Star Textiles,"21 Market Rd, Erode",India,California Cafe,44 Market Street San Francisco,US,0
+Royal Furnitures,9 Main Street Madurai,India,Blue Star Textiles,"21 Market Rd, Erode",India,0
+ABC Electronics,"12 MG Rd, Chennai",India,Lyon Fashion Hse,"27 Rue Republique, Lyon",France,0
+CALIFORNIA COFFEE,44 Market Street San Francisco,US,Tech Nova Solutions,101 Park Avenue,India,0
+Global Motors,"55 Industrial Rd, Pune",India,NY Books,90 Broadway,US,0
+California Coffee,44 Market Street San Francisco,US,California Coffee,"44 Market St, San Francisco",US,1
+New York Book Store,"90 Broadway, NY",US,NEW YORK BOOKS,"90 Broadway St, New York",US,1
+New York Book Store,90 Broadway,US,New York Books,90 Broadway New York,US,1
+Blue Star Textiles,"21 Market Rd, Erode",India,BLUE STAR TEXTILES,"21 Market Rd, Erode",India,1
+ABC Electronics,"12 MG Road, Chennai",India,Global Motor,55 Industrial Rd.,India,0
+Paris Bakery Ltd,18 Rue Victor Hugo Paris,France,Sunrise Rest.,"78 Gandhi St., Coimbatore",India,0
+Paris Bakery Ltd,"18 Rue V. Hugo, Paris",France,Paris Boulangerie,"18 Rue V. Hugo, Paris",France,1
+Tech Nova Solutions,101 Park Avenue Hyderabad,India,TechNova Solutions,101 Park Avenue,India,1
+California Coffee,44 Market Street San Francisco,US,FreshMart Supermarket,33 Lake View Road Bangalore,India,0
+FRESH MART,33 Lake View Road,India,FRESH MART,"33 Lake View Rd, Bangalore",India,1
+Tech Nova Solutions,101 Park Avenue,India,ABC Electronics,"12 MG Road, Chennai",India,0
+New York Books,90 Broadway New York,US,NEW YORK BOOKS,"90 Broadway, NY",US,1
+Lyon Fashion Hse,27 Rue de la Republique,France,Paris Bakery,18 Rue Victor Hugo Paris,France,0
+Lyon Fashion House,27 Rue de la Republique,France,Lyon Fashion House,27 Rue de la Republique Lyon,France,1
+Global Motor,55 Industrial Road,India,A.B.C. Electronics,"12 M.G. Road, Chennai",India,0
+ABC Electronics,12 MG Road Chennai,India,ABC Electronic,"12 MG Rd, Chennai",India,1
+BlueStar Textiles,21 Market Road,India,California Coffee Co,"44 Market St, SF",US,0
+GREEN LEAF PHARMACY,"45 Anna Ngr, Chennai",India,Green Leaf Pharma,"45 Anna Ngr, Chennai",India,1
+Lyon Fashion Hse,"27 Rue Republique, Lyon",France,New York Books,90 Broadway New York,US,0
+NEW YORK BOOKS,"90 Broadway St, New York",US,BlueStar Textiles,"21 Market Rd., Erode",India,0
+Paris Bakery,18 Rue Victor Hugo,France,Paris Bakery Ltd,18 Rue Victor Hugo Paris,France,1
